@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://alshedivat.github.io/al-folio/sitemap.xml
+Sitemap: https://jerome-fortin.github.io/sitemap.xml
