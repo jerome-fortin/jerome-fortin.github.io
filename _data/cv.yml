@@ -3,21 +3,19 @@
   contents:
     - name: Full Name
       value: Jerome Fortin
-    - name: Date of Birth
-      value: 14th March 1879
     - name: Languages
-      value: English, German
+      value: French, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Paris 6 - Ecole Normale Supérieure (ENS)
+      year: 2005
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Title "Homogeneous and localized compaction of porous sandstone. Experimental and theoretical study" Under the supervision of Yves Guéguen
+        - Reviewers : Jean Sulem and Christian David
+       - title: <a href="https://theses.hal.science/tel-00180388v1/document">pdf</a>
           contents:
             - Sub-description 1.
             - Sub-description 2.
