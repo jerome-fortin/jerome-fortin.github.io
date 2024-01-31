@@ -11,12 +11,12 @@
   contents:
     - title: PhD
       institution: University of Paris 6 - Ecole Normale Supérieure (ENS)
-       year: 1900
+      year: 1900
       description:
         - Description 1.
         - Description 2. 
         
-  - title: Federal teaching diploma
+    - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
       description:
