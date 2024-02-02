@@ -10,27 +10,34 @@
   type: time_table
   contents:
     - title: HDR 
-      institution: PSL University - Ecole Normale Supérieure (ENS)
+      institution: PSL University - <a href="https://www.ens.psl.eu/">Ecole Normale Supérieure</a>
       year: 2017
       description:
-        - Entitled Mécanique et physique des roches réservoirs.
-        - Reviewer : Jean Sulem, Ian Jackson, Djimédo Kondo
+        - Entitled *Mécanique et physique des roches réservoirs*.
+        - Reviewers> Jean Sulem, Ian Jackson, Djimédo Kondo
         
     - title: PhD
-      institution: University of Paris 6 - Ecole Normale Supérieure (ENS)
+      institution: University of Paris 6 - <a href="https://www.ens.psl.eu/">Ecole Normale Supérieure</a>
       year: 2005
       description:
         - Entitled <a href="https://theses.hal.science/tel-00180388v1/document">Homogeneous and localized compaction of porous sandstone. Experimental and theoretical study</a>
-        - Advisor Yves Guéguen
+        - Advisor> Yves Guéguen
+        
+     - title: Engineer diploma
+      institution: École nationale du génie rural, des eaux et des forêts (ENGREF), école interne d'AgroParisTech
+      year: 2002
+      description:
+        - Engineer diploma in the rural engineering, water and forest
+       
         
     - title: Master
-      institution: Ecole Normale Supérieure de Cachan (Paris-Saclay)
+      institution: <a href="https://ens-paris-saclay.fr/">Ecole Normale Supérieure de Cachan (Paris Saclay)</a>
       year: 2002
       description:
         - MSc (DEA) in Hydrology and Hydrogeology (University of Paris 6),       
-        - Admitted to the national competitive exam for recruiting senior teachers (‘Agrégation’), in civil engineering (national ranking 13).
+        - Admitted to the national competitive exam for recruiting senior teachers (‘Agrégation’), in civil engineering.
         - Undergraduate studies in Civil Engineering
-        - Admitted as a civil servant student to the Ecole Normale Supérieure de Cachan in 1997
+        - Admitted as a civil servant student to the <a href="https://ens-paris-saclay.fr/">Ecole Normale Supérieure de Cachan</a> in 1997
 
 - title: Experience
   type: time_table
