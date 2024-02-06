@@ -80,8 +80,7 @@
   contents:
     - year: 2015
       items:
-        - laureate of the awards <a href="https://www.academie-sciences.fr/fr/Laureats/laureat-2015-du-prix-michel-gouilloud-schlumberger-jerome-fortin.html"> Michel Gouilloud Schlumberger</a> from the <a href="https://www.academie-sciences.fr/en/"> French Academie des Sciences</a> .
- 
+     
 
 - title: Academic Interests
   type: nested_list
