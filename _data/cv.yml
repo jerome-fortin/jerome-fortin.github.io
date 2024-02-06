@@ -63,7 +63,10 @@
     - title: Assistant Professor 
       institution: Geosciences department, Ecole Normale Supérieure
       year: 2005-2009
-
+      
+    - title: Post-doc 
+      institution: <a href="https://www.gfz-potsdam.de/"> GFZ Potsdam </a>
+      year: 2005-2007
 
 - title: Open Source Projects
   type: time_table
