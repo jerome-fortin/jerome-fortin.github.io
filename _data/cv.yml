@@ -24,10 +24,8 @@
         - Advisor Yves Guéguen
 
     - title: Engineer diploma
-      institution: Ecole nationale du génie rural, des eaux et forêts (ENGREF), école interne de AgroParisTech
+      institution: Engineer diploma in the rural engineering, water and forest (ENGREF), école interne de AgroParisTech
       year: 2002
-      description:
-        - Engineer diploma in the rural engineering, water and forest
                    
     - title: Master
       institution: <a href="https://ens-paris-saclay.fr/">Ecole Normale Supérieure de Cachan (Paris Saclay)</a>
@@ -79,7 +77,8 @@
   type: time_table
   contents:
     - year: 2015
-      items:
+      items: Laureate of the awards <a href="https://www.academie-sciences.fr/fr/Laureats/laureat-2015-du-prix-michel-gouilloud-schlumberger-jerome-fortin.html"> Michel Gouilloud Schlumberger</a> from the <a href="https://www.academie-sciences.fr/en/"> French Academie des Sciences</a> .
+ 
      
 
 - title: Academic Interests
