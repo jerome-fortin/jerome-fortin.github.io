@@ -4,7 +4,7 @@ permalink: /people/
 title: Group Members
 description: PhD Students
 nav: true
-nav_order: 3
+nav_order: 7
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
