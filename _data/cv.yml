@@ -73,10 +73,6 @@
   type: nested_list
   contents:
     - title: Rock Physics and Geomechanics
-      items:
-        - 
-   - title: Hydrogeology
-      items:
-        - 
-       
+    - title: Hydrogeology
+         
 
