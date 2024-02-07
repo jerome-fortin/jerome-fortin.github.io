@@ -54,13 +54,12 @@
       institution: <a href="https://www.gfz-potsdam.de/"> GFZ Potsdam </a>
       year: 2005-2007
 
-- title: Open Source Projects
+- title: Honors and Awards
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-  
+    - year: 2015
+      items: Laureate of the award <a href="https://www.academie-sciences.fr/fr/Laureats/laureat-2015-du-prix-michel-gouilloud-schlumberger-jerome-fortin.html"> Michel Gouilloud Schlumberger</a> from the <a href="https://www.academie-sciences.fr/en/"> French Academie des Sciences</a> 
+
 - title: Academic Interests
   type: nested_list
   contents:
