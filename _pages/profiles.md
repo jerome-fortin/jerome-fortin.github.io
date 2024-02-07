@@ -15,7 +15,7 @@ profiles:
     image_circular: crops the image to make it circular
     more_info: >
       <p>Augustin Thomas</p>
-      <p>October 2020 onwards</p>
+ 
   
   - align: left
     image: augustin.jpg
