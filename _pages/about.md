@@ -6,7 +6,7 @@ subtitle: CNRS Directeur de Recherche, <a href='https://www.geologie.ens.fr/en/g
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: jayy.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Bureau E210</p>
