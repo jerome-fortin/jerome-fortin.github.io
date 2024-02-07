@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: PhD Students
-description: 
+title: Group Members
+description: PhD Students
 nav: true
 nav_order: 7
 
