@@ -67,7 +67,7 @@
     - year: 2015
       items: Laureate of the award <a href="https://www.academie-sciences.fr/fr/Laureats/laureat-2015-du-prix-michel-gouilloud-schlumberger-jerome-fortin.html"> Michel Gouilloud Schlumberger</a> from the <a href="https://www.academie-sciences.fr/en/"> French Academie des Sciences</a> .
  
-     
+    
 
 - title: Academic Interests
   type: nested_list
@@ -75,4 +75,9 @@
     - title: Rock Physics and Geomechanics
     - title: Hydrogeology
          
-
+- title: Other Interests
+  type: list
+  contents:
+    - <a href="https://www.kiwanis.fr/">Kiwanis Member</a>
+    - <a href="https://delamayenneauxgrandesecoles.com/"> De la Mayenne aux Grandes Ecoles</a>
+    - <a href="https://zoom.laval.fr/"> Part of the scientific council of the Zoom - Laval </a> 
