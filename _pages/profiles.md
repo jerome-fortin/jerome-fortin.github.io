@@ -9,6 +9,7 @@ nav_order: 7
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
+  -<div class="circular--landscape"> <img src="augustin.jpg" /> </div>
   - align: right
     image: augustin.jpg
     image_circular: crops the image to make it circular
