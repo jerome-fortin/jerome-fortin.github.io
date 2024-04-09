@@ -10,8 +10,6 @@ related_posts: false
 <ul>
 <li> <a href="https://doi.org/10.5194/egusphere-egu24-5612"> 'Pressure dependence of permeability in cracked rocks: experimental evidence of non-linear pore-pressure gradients from local measurements' </a> by L. Gang, S Chapman, D Garagash, J Fortin, A Schubnel </li>
 
-<a href="https://theses.hal.science/tel-00180388v1/document"> 'Homogeneous and localized compaction of porous sandstone. Experimental and theoretical study' </a>
-
 <li>Seismic properties of serpentinites under increasing pressure and temperature conditions by ML Doan, H Wang, AL Auzende, S Schwartz, S Chapman, J Fortin</li>
 
 <li>Multi-scale experimental deformation and damage initiation of clay-rich rocks: Coupling ultrasonic wave propagation and full field deformation measurements by digital image by M Lusseyran, A Dimanov, A Bonnelye, J Fortin, A Tanguy</li>
