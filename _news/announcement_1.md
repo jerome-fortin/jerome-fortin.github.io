@@ -6,8 +6,7 @@ related_posts: false
 ---
 
 
-Up coming at EGU 2024 :
-#### Hipster list
+#### Up coming at EGU 2024 :
 
 <li>Pressure dependence of permeability in cracked rocks: experimental evidence of non-linear pore-pressure gradients from local measurements by S Chapman, D Garagash, J Fortin, A Schubnel</li>
 
