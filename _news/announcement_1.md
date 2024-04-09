@@ -6,7 +6,7 @@ related_posts: false
 ---
 
 
-#### Upcoming at <a href="https://www.egu24.eu/" 'EGU 2024'</a>
+#### Upcoming at <a href="https://www.egu24.eu/"> 'EGU 2024'</a>
 <ul>
 <li> <a href="https://doi.org/10.5194/egusphere-egu24-19115"> 'Passive characterization of aquifer permeability and shear modulus and their evolution following earthquakes using tidal signals'</a> by A Thomas, J Fortin, B Vittecoq, S Violette</li>
   
