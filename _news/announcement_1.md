@@ -7,7 +7,7 @@ related_posts: false
 
 
 #### Up coming at EGU 2024 :
-
+<ul>
 <li>Pressure dependence of permeability in cracked rocks: experimental evidence of non-linear pore-pressure gradients from local measurements by S Chapman, D Garagash, J Fortin, A Schubnel</li>
 
 <li>Seismic properties of serpentinites under increasing pressure and temperature conditions by ML Doan, H Wang, AL Auzende, S Schwartz, S Chapman, J Fortin</li>
