@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: CNRS Directeur de Recherche, <a href='https://www.geologie.ens.fr/en/geology-laboratory/'>Laboratoire de Géologie, ENS Paris</a>
+subtitle: Directeur de Recherche CNRS, <a href='https://www.geologie.ens.fr/en/geology-laboratory/'>Laboratoire de Géologie, ENS Paris</a>
 
 profile:
   align: right
   image: jayy.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Bureau E210</p>
+    <p> <a href='https://harshasbhat.github.io/contact/' Bureau E210 </a> </p>
     <p>24 rue Lhomond</p>
     <p>75005 Paris</p>
 
