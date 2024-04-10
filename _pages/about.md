@@ -9,7 +9,7 @@ profile:
   image: jayy.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> <a href='https://harshasbhat.github.io/contact/' Bureau E210 </a> </p>
+    <p> <a href='https://harshasbhat.github.io/contact/'> Bureau E210 </a> </p>
     <p>24 rue Lhomond</p>
     <p>75005 Paris</p>
 
