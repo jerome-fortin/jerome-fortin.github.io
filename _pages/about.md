@@ -6,7 +6,7 @@ subtitle: Directeur de Recherche CNRS, <a href='https://www.geologie.ens.fr/en/g
 
 profile:
   align: right
-  image: jayyy.jpg
+  image: jay22.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> <a href='https://harshasbhat.github.io/contact/'> Bureau E210 </a> </p>
