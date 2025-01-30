@@ -12,12 +12,12 @@ related_publications: true
 
 **Current PhDs**
 <ul>
-<li> <h4> Emile Gros (Octobre 2023-onwards) </h4> 
+<li> <h5> Emile Gros (Octobre 2023-onwards) </h5> 
      <a href="https://theses.fr/s377820"> Recherche multidisciplinaire pour la caractérisation du fonctionnement hydrogéologique des aquifères volcaniques de la Martinique : édifice volcanique du Morne Jacob. </a>  
     Collaboration with Sophie Violette (ENS) and  <a href="https://mq.linkedin.com/in/benoit-vittecoq-brgm-martinique"> Benoit Vittecoq </a> (BRGM)   </li>  
-<li> <h4> Julien Doucot (Octobre 2022-onwards) </h4>  <a href="https://theses.fr/s348406"> La diagenèse précoce des sédiments carbonatés au laboratoire : approche expérimentale des processus géologiques et leur rôle sur les propriétés réservoirs. </a> Collaboration with Jean Baptiste Regnet and Philippe Robion <a href="https://gec.cyu.fr/"> CYU </a>  </li>
+<li> <h5> Julien Doucot (Octobre 2022-onwards) </h5>  <a href="https://theses.fr/s348406"> La diagenèse précoce des sédiments carbonatés au laboratoire : approche expérimentale des processus géologiques et leur rôle sur les propriétés réservoirs. </a> Collaboration with Jean Baptiste Regnet and Philippe Robion <a href="https://gec.cyu.fr/"> CYU </a>  </li>
     
-<li> <h4> Théo Briolet (Decembre 2021-onwards) </h4> <a href="https://theses.fr/s298987"> Etude expérimentale intégrée de l'impact de l'altération des roches sur leurs propriétés hydromécaniques </a> Collaboration with Elisabeth Bemer and Olivier Sissmann from <a href="https://www.ifpenergiesnouvelles.fr/">IFPEN </a>   </li>
+<li> <h5> Théo Briolet (Decembre 2021-onwards) </h5> <a href="https://theses.fr/s298987"> Etude expérimentale intégrée de l'impact de l'altération des roches sur leurs propriétés hydromécaniques </a> Collaboration with Elisabeth Bemer and Olivier Sissmann from <a href="https://www.ifpenergiesnouvelles.fr/">IFPEN </a>   </li>
   
 <ul>
 
