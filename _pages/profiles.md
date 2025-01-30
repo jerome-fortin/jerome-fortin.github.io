@@ -13,7 +13,7 @@ related_publications: true
 **Current PhDs**
 <ul>
 <li> Emile Gros <a href="https://theses.fr/s377820"> Recherche multidisciplinaire pour la caractérisation du fonctionnement hydrogéologique des aquifères volcaniques de la Martinique : édifice volcanique du Morne Jacob. </a> Collaboration with Sophie Violette (ENS) and  <a href="https://mq.linkedin.com/in/benoit-vittecoq-brgm-martinique"> Benoit Vittecoq </a> (BRGM)  Octobre 2023-onwards </li>
-    
+
 <li> Julien Doucot <a href="https://theses.fr/s348406"> La diagenèse précoce des sédiments carbonatés au laboratoire : approche expérimentale des processus géologiques et leur rôle sur les propriétés réservoirs. </a> Collaboration with Jean Baptiste Regnet and Philippe Robion <a href="https://gec.cyu.fr/"> CYU </a>  Octobre 2022-onwards </li>
     
 <li> Théo Briolet <a href="https://theses.fr/s298987"> Etude expérimentale intégrée de l'impact de l'altération des roches sur leurs propriétés hydromécaniques </a> Collaboration with Elisabeth Bemer and Olivier Sissmann from <a href="https://www.ifpenergiesnouvelles.fr/">IFPEN </a>  Decembre 2021-onwards </li>
@@ -22,9 +22,7 @@ related_publications: true
 
 
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
