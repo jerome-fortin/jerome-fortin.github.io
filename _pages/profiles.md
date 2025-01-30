@@ -8,7 +8,7 @@ importance: 1
 category: work
 related_publications: true
 ---
-<h3>Current PhDs </h3>
+<h4>Current PhDs </h4>
 
 * **Emile Gros** (Octobre 2023-onwards)
   *  <a href="https://theses.fr/s377820"> Recherche multidisciplinaire pour la caractérisation du fonctionnement hydrogéologique des aquifères volcaniques de la Martinique : édifice volcanique du Morne Jacob. </a>  
@@ -19,17 +19,21 @@ related_publications: true
   *   Collaboration with Jean Baptiste Regnet and Philippe Robion <a href="https://gec.cyu.fr/"> CYU </a>
 
 * **Théo Briolet** (Decembre 2021-onwards)
-  *   <a href="https://theses.fr/s298987"> Etude expérimentale intégrée de l'impact de l'altération des roches sur leurs propriétés hydromécaniques </a>
+  *   <a href="https://theses.fr/s298987"> Integrated experimental study of the impact of the alteration on the hydromechanical properties of rocks </a>
   *   Collaboration with Elisabeth Bemer and Olivier Sissmann from <a href="https://www.ifpenergiesnouvelles.fr/">IFPEN </a>
 
 
 
 
-<h3>Former PhD Students </h3>
+<h4>Former PhD Students </h4>
 
 * **Augustin Thomas** (defended the 08 of March 2024)
   *  <a href="https://theses.fr/2024UPSLE001"> Contributions of tidal analysis in the understanding of earthquakes impacts on volcanic aquifers : field study in Martinique. </a>  
   *  Now post-doc at BRGM 
+ 
+* **Ariel Gallagher** (defended the 20 of June 2022)
+  *  <a href="https://theses.fr/2018PSLEE021"> Characterization of the elastic properties of rocks at different scales : link between seismic, sonic and ultrasonic wave velocities </a>  
+  *  Now baker in Montreal
  
 * **Jan Borgomano** (defended the 24 of January 2018)
   *  <a href="https://theses.fr/2018PSLEE021"> Dispersion of the elastic moduli of saturated carbonate rocks : experimental study and modelisation. </a>  
