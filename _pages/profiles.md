@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /people/
+title: Group
 nav: true
 nav_order: 7
 img: assets/img/12.jpg
