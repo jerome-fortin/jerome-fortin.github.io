@@ -46,13 +46,20 @@ related_publications: true
     
 * **Sun Chao** (defended the 14 december 2020)
   *  <a href="https://theses.fr/2020UPSLE081"> Effect of mechanical compaction and biphasic saturation on the frequency dependence of elastic wave velocities in porous rock. </a>  
-  *  Now Assistant Professor at  <a href="https://global.cumt.edu.cn/index.htm"> CUMT </a>
+  *  Now Assistant Professor at <a href="https://global.cumt.edu.cn/index.htm"> CUMT </a>
 
  
 * **Jan Borgomano** (defended the 24 of January 2018)
   *  <a href="https://theses.fr/2018PSLEE021"> Dispersion of the elastic moduli of saturated carbonate rocks : experimental study and modelisation. </a>  
   *  Now Researcher at Total R&D 
 
+* **Céline Mallet** (defended in 2014)
+  *  <a href="https://theses.fr/2014ENSU0001"> Etude de la fissuration des verres de stockage : comportement en condition de stockage géologique. </a>  
+  *  Now Assitant Professor at <a href="https://www.isto-orleans.fr/"> ISTO Orlean University </a>
+
+* **Mathilde Adelinet** (defended in 2010)
+  *  <a href="https://theses.fr/2010LEMA1022"> From field to laboratory, study of the elastic properties of basalt. </a>  
+  *  Now Assitant Professor at <a href="https://www.ifp-school.com/"> IFP School </a>
 
 
 <div class="row justify-content-sm-center">
