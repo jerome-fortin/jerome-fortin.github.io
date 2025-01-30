@@ -43,15 +43,14 @@ related_publications: true
 * **Ariel Gallagher** (defended the 20 of June 2022)
   *  <a href="https://theses.fr/2022UPSLE100"> Characterization of the elastic properties of rocks at different scales : link between seismic, sonic and ultrasonic wave velocities </a>  
   *  Now baker in Montreal
-
-* **Cedric Bailly** (defended the 19 december 2019)
-  *  Multi-scale geological and geophysical characterization of lacustrine carbonates of Samos Island (Upper Miocene, Greece) – Relationship between facies, diagenesis and elastic properties 
-  *  Now Assistant Professor at <a href="https://www.geops.universite-paris-saclay.fr/user/cedric.bailly/"> University Paris Saclay </a>
-    
+  
 * **Sun Chao** (defended the 14 december 2020)
   *  <a href="https://theses.fr/2020UPSLE081"> Effect of mechanical compaction and biphasic saturation on the frequency dependence of elastic wave velocities in porous rock. </a>  
   *  Now Assistant Professor at <a href="https://global.cumt.edu.cn/index.htm"> CUMT </a>
-
+  
+* **Cedric Bailly** (defended the 19 december 2019)
+  *  Multi-scale geological and geophysical characterization of lacustrine carbonates of Samos Island (Upper Miocene, Greece) – Relationship between facies, diagenesis and elastic properties 
+  *  Now Assistant Professor at <a href="https://www.geops.universite-paris-saclay.fr/user/cedric.bailly/"> University Paris Saclay </a>
  
 * **Jan Borgomano** (defended the 24 of January 2018)
   *  <a href="https://theses.fr/2018PSLEE021"> Dispersion of the elastic moduli of saturated carbonate rocks : experimental study and modelisation. </a>  
