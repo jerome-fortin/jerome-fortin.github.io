@@ -8,7 +8,7 @@ importance: 1
 category: work
 related_publications: true
 ---
-<h2>Current PhDs </h2>
+<h3>Current PhDs </h3>
 
 * **Emile Gros** (Octobre 2023-onwards)
   *  <a href="https://theses.fr/s377820"> Recherche multidisciplinaire pour la caractérisation du fonctionnement hydrogéologique des aquifères volcaniques de la Martinique : édifice volcanique du Morne Jacob. </a>  
