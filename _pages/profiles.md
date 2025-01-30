@@ -2,7 +2,6 @@
 layout: page
 permalink: /people/
 title: Group Members
-description: PhD Students
 nav: true
 nav_order: 7
 img: assets/img/12.jpg
