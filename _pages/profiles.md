@@ -13,8 +13,9 @@ related_publications: true
 
 Current PhD 
 <ul>
-<li> Théo Briolet <a href="https://theses.fr/s298987"> Etude expérimentale intégrée de l'impact de l'altération des roches sur leurs propriétés hydromécaniques </a> Collaboration with Elisabeth Bemer and Olivier Sismann from IFPEN (co-supervisors) </li>
+<li> Théo Briolet <a href="https://theses.fr/s298987"> Etude expérimentale intégrée de l'impact de l'altération des roches sur leurs propriétés hydromécaniques </a> Collaboration with Elisabeth Bemer and Olivier Sissmann from <a href="https://www.ifpenergiesnouvelles.fr/">IFPEN </a>  (co-supervisors) </li>
 
+<ul>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
