@@ -11,9 +11,17 @@ related_publications: true
 ---
 <h4>Current PhDs </h4>
 
+* **Guadalupe Flores** (Octobre 2024-onwards)
+  *  Seismic attenuation caused by squirt flow in fluid-saturated rocks. 
+  *  PhD between UNIL (advisor <a href="https://rockphysics.org/en/people/coordinators/beatriz-quintal"> Beatriz Quintal </a>) and ENS 
+
 * **Emile Gros** (Octobre 2023-onwards)
   *  <a href="https://theses.fr/s377820"> Recherche multidisciplinaire pour la caractérisation du fonctionnement hydrogéologique des aquifères volcaniques de la Martinique : édifice volcanique du Morne Jacob. </a>  
   *  Collaboration with Sophie Violette (ENS) and  <a href="https://mq.linkedin.com/in/benoit-vittecoq-brgm-martinique"> Benoit Vittecoq </a> (BRGM)
+
+* **Gang Lin** (Octobre 2022-onwards)
+  *   Competition between brittle creep and fluid diffusion during time-delayed hydraulic fracturing
+  *   Collaboration with Alexandre Schubnel
  
 * **Julien Doucot** (Octobre 2022-onwards)
   *   <a href="https://theses.fr/s348406"> La diagenèse précoce des sédiments carbonatés au laboratoire : approche expérimentale des processus géologiques et leur rôle sur les propriétés réservoirs. </a>
@@ -33,12 +41,14 @@ related_publications: true
   *  Now post-doc at BRGM 
  
 * **Ariel Gallagher** (defended the 20 of June 2022)
-  *  <a href="https://theses.fr/2018PSLEE021"> Characterization of the elastic properties of rocks at different scales : link between seismic, sonic and ultrasonic wave velocities </a>  
+  *  <a href="https://theses.fr/2022UPSLE100"> Characterization of the elastic properties of rocks at different scales : link between seismic, sonic and ultrasonic wave velocities </a>  
   *  Now baker in Montreal
  
 * **Jan Borgomano** (defended the 24 of January 2018)
   *  <a href="https://theses.fr/2018PSLEE021"> Dispersion of the elastic moduli of saturated carbonate rocks : experimental study and modelisation. </a>  
   *  Now Researcher at Total R&D 
+
+
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
