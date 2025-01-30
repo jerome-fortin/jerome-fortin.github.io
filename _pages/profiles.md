@@ -25,7 +25,15 @@ related_publications: true
 
 
 
+<h3>Former PhD Students </h3>
 
+* **Augustin Thomas** (defended the 08 of March 2024)
+  *  <a href="https://theses.fr/2024UPSLE001"> Contributions of tidal analysis in the understanding of earthquakes impacts on volcanic aquifers : field study in Martinique. </a>  
+  *  Now post-doc at BRGM 
+ 
+* **Jan Borgomano** (defended the 24 of January 2018)
+  *  <a href="https://theses.fr/2018PSLEE021"> Dispersion of the elastic moduli of saturated carbonate rocks : experimental study and modelisation. </a>  
+  *  Now Researcher at Total R&D 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
