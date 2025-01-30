@@ -10,6 +10,21 @@ related_publications: true
 ---
 <h2>Current PhDs </h2>
 
+* **Emile Gros** (Octobre 2023-onwards)
+  *  <a href="https://theses.fr/s377820"> Recherche multidisciplinaire pour la caractérisation du fonctionnement hydrogéologique des aquifères volcaniques de la Martinique : édifice volcanique du Morne Jacob. </a>  
+  *  Collaboration with Sophie Violette (ENS) and  <a href="https://mq.linkedin.com/in/benoit-vittecoq-brgm-martinique"> Benoit Vittecoq </a> (BRGM)   </li>  
+* Top navigation bar config: _data/navigation.yml
+* Single pages: _pages/
+* Collections of pages are .md or .html files in:
+  * _publications/
+  * _portfolio/
+  * _posts/
+  * _teaching/
+  * _talks/
+* Footer: _includes/footer.html
+* Static files (like PDFs): /files/
+* Profile image (can set in _config.yml): images/profile.png
+
 <ul>
 <li> <h5> Emile Gros (Octobre 2023-onwards) </h5> 
      <a href="https://theses.fr/s377820"> Recherche multidisciplinaire pour la caractérisation du fonctionnement hydrogéologique des aquifères volcaniques de la Martinique : édifice volcanique du Morne Jacob. </a>  
