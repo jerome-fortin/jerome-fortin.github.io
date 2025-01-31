@@ -49,6 +49,10 @@ related_publications: true
 * **Cedric Bailly** (defended the 19 december 2019)
   *  Multi-scale geological and geophysical characterization of lacustrine carbonates of Samos Island (Upper Miocene, Greece) – Relationship between facies, diagenesis and elastic properties 
   *  Now Assistant Professor at <a href="https://www.geops.universite-paris-saclay.fr/user/cedric.bailly/"> University Paris Saclay </a>
+
+* **Li Zhi** (defended the 22 of March 2019)
+  *  <a href="https://theses.fr/2019PSLEE003"> Physical properties of a thermally cracked andesite and fluid-injection induced rupture at laboratory scale. </a>  
+  *  Now Researcher at the China University of Geosciences
  
 * **Jan Borgomano** (defended the 24 of January 2018)
   *  <a href="https://theses.fr/2018PSLEE021"> Dispersion of the elastic moduli of saturated carbonate rocks : experimental study and modelisation. </a>  
