@@ -92,4 +92,3 @@ related_publications: true
 </div>
 
 
-{% endraw %}
