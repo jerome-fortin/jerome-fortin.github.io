@@ -54,9 +54,21 @@ related_publications: true
   *  <a href="https://theses.fr/2018PSLEE021"> Dispersion of the elastic moduli of saturated carbonate rocks : experimental study and modelisation. </a>  
   *  Now Researcher at Total R&D 
 
+* **Lucas Pimienta** (defended in 2015)
+  *  <a href="https://theses.fr/2015ENSU0002"> Fluid and frequency effects on the elastic properties of sandstones and limestones. </a>  
+  *  Now Researcher at <a href="https://rockphysics.org/en/people/members/lucas-pimienta"> UNIL </a>
+
+* **Aurélien Nicolas** (defended in 2015)
+  *  <a href="https://theses.fr/2015ENSU0040"> Mechanical behavior of low-porous carbonates : experimental study and micromechanical modeling. </a>  
+  *  Now Bureau Veritas Marine & Offshore - Structure research team
+
 * **Céline Mallet** (defended in 2014)
   *  <a href="https://theses.fr/2014ENSU0001"> Etude de la fissuration des verres de stockage : comportement en condition de stockage géologique. </a>  
   *  Now Assitant Professor at <a href="https://www.isto-orleans.fr/"> ISTO Orlean University </a>
+
+* **Audrey Ougier-Simonin** (defended in 2014)
+  *  Mechanical and transport properties of cracked glasses. 
+  *  Now Researcher at the <a href="https://www.bgs.ac.uk/people/ougier-simonin-audrey-clone/"> British Geological Survey </a>
 
 * **Mathilde Adelinet** (defended in 2010)
   *  <a href="https://theses.fr/2010LEMA1022"> From field to laboratory, study of the elastic properties of basalt. </a>  
