@@ -25,13 +25,11 @@ related_publications: true
  
 * **Julien Doucot** (Octobre 2022-onwards)
   *   <a href="https://theses.fr/s348406"> La diagenèse précoce des sédiments carbonatés au laboratoire : approche expérimentale des processus géologiques et leur rôle sur les propriétés réservoirs. </a>
-  *   Collaboration with Jean Baptiste Regnet and Philippe Robion <a href="https://gec.cyu.fr/"> CYU </a>
+  *  PhD between  <a href="https://gec.cyu.fr/"> CYU </a> (Jean Baptiste Regnet and Philippe Robion) and ENS
 
 * **Théo Briolet** (Decembre 2021-onwards)
   *   <a href="https://theses.fr/s298987"> Integrated experimental study of the impact of the alteration on the hydromechanical properties of rocks </a>
-  *   Collaboration with Elisabeth Bemer and Olivier Sissmann from <a href="https://www.ifpenergiesnouvelles.fr/">IFPEN </a>
-
-
+  *  PhD between  <a href="https://www.ifpenergiesnouvelles.fr/">IFPEN </a> (Elisabeth Bemer and Olivier Sissmann) and ENS
 
 
 <h4>Former PhD Students </h4>
