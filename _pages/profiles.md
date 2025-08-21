@@ -15,6 +15,10 @@ category: work
   *  Seismic attenuation caused by squirt flow in fluid-saturated rocks. 
   *  PhD between UNIL (advisor <a href="https://rockphysics.org/en/people/coordinators/beatriz-quintal"> Beatriz Quintal </a>) and ENS 
 
+* **Maxime Guillou** (Octobre 2024-onwards)
+  *  <a href="https://theses.fr/s400049"> The becoming of carbonate aquifers under shallow burial conditions : influence of the early diagenesis on the evolution of physical and mechanical properties, spatialization and modeling of geological processes </a>
+  *  PhD between  <a href="https://gec.cyu.fr/"> CYU </a> (Bertrand Maillot and Jean Baptiste Regnet) and ENS
+
 * **Emile Gros** (Octobre 2023-onwards)
   *  <a href="https://theses.fr/s377820"> Recherche multidisciplinaire pour la caractérisation du fonctionnement hydrogéologique des aquifères volcaniques de la Martinique : édifice volcanique du Morne Jacob. </a>  
   *  Collaboration with Sophie Violette (ENS) and  <a href="https://mq.linkedin.com/in/benoit-vittecoq-brgm-martinique"> Benoit Vittecoq </a> (BRGM)
