@@ -78,7 +78,7 @@ category: work
   *  <a href="https://theses.fr/2014ENSU0001"> Etude de la fissuration des verres de stockage : comportement en condition de stockage géologique. </a>  
   *  Now Assitant Professor at <a href="https://www.isto-orleans.fr/"> ISTO Orlean University </a>
 
-* **Audrey Ougier-Simonin** (defended in 2014)
+* **Audrey Ougier-Simonin** (defended in 2011)
   *  Mechanical and transport properties of cracked glasses. 
   *  Now Researcher at the <a href="https://www.bgs.ac.uk/people/ougier-simonin-audrey-clone/"> British Geological Survey </a>
 
