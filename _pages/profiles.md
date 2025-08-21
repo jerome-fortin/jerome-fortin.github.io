@@ -27,16 +27,16 @@ category: work
   *   <a href="https://theses.fr/s348406"> La diagenèse précoce des sédiments carbonatés au laboratoire : approche expérimentale des processus géologiques et leur rôle sur les propriétés réservoirs. </a>
   *  PhD between  <a href="https://gec.cyu.fr/"> CYU </a> (Jean Baptiste Regnet and Philippe Robion) and ENS
 
-* **Théo Briolet** (Decembre 2021-onwards)
-  *   <a href="https://theses.fr/s298987"> Integrated experimental study of the impact of the alteration on the hydromechanical properties of rocks </a>
-  *  PhD between  <a href="https://www.ifpenergiesnouvelles.fr/">IFPEN </a> (Elisabeth Bemer and Olivier Sissmann) and ENS
-
 
 <h4>Former PhD Students </h4>
 
+* **Théo Briolet** (defended the 24 of March 2025)
+  *  <a href="https://theses.fr/2025UPSLE006"> Integrated experimental study of the impact of the alteration on the hydromechanical properties of rocks. </a>  
+  *  Now Post-doc at ENS
+ 
 * **Augustin Thomas** (defended the 08 of March 2024)
   *  <a href="https://theses.fr/2024UPSLE001"> Contributions of tidal analysis in the understanding of earthquakes impacts on volcanic aquifers : field study in Martinique. </a>  
-  *  Now post-doc at BRGM 
+  *  Now Researcher at BRGM 
  
 * **Ariel Gallagher** (defended the 20 of June 2022)
   *  <a href="https://theses.fr/2022UPSLE100"> Characterization of the elastic properties of rocks at different scales : link between seismic, sonic and ultrasonic wave velocities </a>  
@@ -45,6 +45,10 @@ category: work
 * **Sun Chao** (defended the 14 december 2020)
   *  <a href="https://theses.fr/2020UPSLE081"> Effect of mechanical compaction and biphasic saturation on the frequency dependence of elastic wave velocities in porous rock. </a>  
   *  Now Assistant Professor at <a href="https://global.cumt.edu.cn/index.htm"> CUMT </a>
+
+* **Hanjun Yin** (defended the 6 June 2020)
+  *  <a href="https://theses.fr/2020UPSLE044"> Experimental and theoretical studies of elastic properties of sandstones at different frequency bands </a>  
+  *  Now Assistant Professor at <a href="https://hgu.cucas.cn/"> Hebei GEO University </a>
   
 * **Cedric Bailly** (defended the 19 december 2019)
   *  Multi-scale geological and geophysical characterization of lacustrine carbonates of Samos Island (Upper Miocene, Greece) – Relationship between facies, diagenesis and elastic properties 
