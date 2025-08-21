@@ -30,9 +30,13 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Directeur de Recherche CNRS / CNRS Senior research scientist
+     - title: Directeur de Recherche, DR1, CNRS / CNRS Senior research scientist (1st grade senior researcher)
       institution: <a href="https://www.geologie.ens.fr/">Laboratoire de Géologie</a>, Ecole Normale Supérieure
-      year: 2020-now
+      year: 2024-now
+      
+    - title: Directeur de Recherche CNRS, DR2, / CNRS Senior research scientist (2nd grade senior researcher)
+      institution: <a href="https://www.geologie.ens.fr/">Laboratoire de Géologie</a>, Ecole Normale Supérieure
+      year: 2020-2024
 
     - title: Deputy director 
       institution:  <a href="https://ed398.sorbonne-universite.fr/fr/index.html"> Doctoral School GRNE </a>
