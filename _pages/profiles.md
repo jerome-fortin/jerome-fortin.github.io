@@ -11,6 +11,9 @@ category: work
 ---
 <h4>Current PhDs </h4>
 
+* **Samuel John Gardiner-banks** (Octobre 2025-onwards)
+  *  Impact of CO2 mineralization on the poromechanical properties of basalt. 
+
 * **Guadalupe Flores** (Octobre 2024-onwards)
   *  Seismic attenuation caused by squirt flow in fluid-saturated rocks. 
   *  PhD between UNIL (advisor <a href="https://rockphysics.org/en/people/coordinators/beatriz-quintal"> Beatriz Quintal </a>) and ENS 
@@ -22,10 +25,6 @@ category: work
 * **Emile Gros** (Octobre 2023-onwards)
   *  <a href="https://theses.fr/s377820"> Recherche multidisciplinaire pour la caractérisation du fonctionnement hydrogéologique des aquifères volcaniques de la Martinique : édifice volcanique du Morne Jacob. </a>  
   *  Collaboration with Sophie Violette (ENS) and  <a href="https://mq.linkedin.com/in/benoit-vittecoq-brgm-martinique"> Benoit Vittecoq </a> (BRGM)
-
-* **Gang Lin** (Octobre 2022-onwards)
-  *   Competition between brittle creep and fluid diffusion during time-delayed hydraulic fracturing
-  *   Collaboration with Alexandre Schubnel
  
 * **Julien Doucot** (Octobre 2022-onwards)
   *   <a href="https://theses.fr/s348406"> La diagenèse précoce des sédiments carbonatés au laboratoire : approche expérimentale des processus géologiques et leur rôle sur les propriétés réservoirs. </a>
@@ -33,6 +32,10 @@ category: work
 
 
 <h4>Former PhD Students </h4>
+
+* **Gang Lin** (defended the 15 of September 2025)
+  *    <a href="https://theses.fr/s348747"> Competition between brittle creep and fluid diffusion during time-delayed hydraulic fracturing. </a> 
+  *  Now Post-doc at ENS
 
 * **Théo Briolet** (defended the 24 of March 2025)
   *  <a href="https://theses.fr/2025UPSLE006"> Integrated experimental study of the impact of the alteration on the hydromechanical properties of rocks. </a>  
