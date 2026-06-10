@@ -33,7 +33,7 @@ category: work
 
 <h4>Former PhD Students </h4>
 
-* **Matthieu Lusseyran** (defended the 23 March og 2026 )
+* **Matthieu Lusseyran** (defended the 23 of March 2026 )
   *    <a href="https://theses.fr/s348747"> Deformation micromechanisms in shale revealed by P-wave velocity and digital image correlation. </a> 
   *  Now Post-doc at LMS
 
