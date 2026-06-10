@@ -33,13 +33,17 @@ category: work
 
 <h4>Former PhD Students </h4>
 
+* **Matthieu Lusseyran** (defended the 23 March og 2026 )
+  *    <a href="https://theses.fr/s348747"> Deformation micromechanisms in shale revealed by P-wave velocity and digital image correlation. </a> 
+  *  Now Post-doc at LMS
+
 * **Gang Lin** (defended the 15 of September 2025)
   *    <a href="https://theses.fr/s348747"> Competition between brittle creep and fluid diffusion during time-delayed hydraulic fracturing. </a> 
   *  Now Post-doc at ENS
 
 * **Théo Briolet** (defended the 24 of March 2025)
   *  <a href="https://theses.fr/2025UPSLE006"> Integrated experimental study of the impact of the alteration on the hydromechanical properties of rocks. </a>  
-  *  Now Post-doc at ENS
+  *  Now Post-doc at University of Neuchatel
  
 * **Augustin Thomas** (defended the 08 of March 2024)
   *  <a href="https://theses.fr/2024UPSLE001"> Contributions of tidal analysis in the understanding of earthquakes impacts on volcanic aquifers : field study in Martinique. </a>  
